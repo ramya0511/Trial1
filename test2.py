@@ -1,0 +1,1 @@
+print("New file named test2.py")
